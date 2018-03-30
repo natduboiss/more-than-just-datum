@@ -1,3 +1,7 @@
 .searchicon {
   margin-left: .5em;
 }
+
+html {
+  font-family: "IBM Plex Sans", sans-serif;
+}
